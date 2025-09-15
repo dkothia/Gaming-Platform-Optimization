@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+.ETG Case Study.ipynb.layout
+
+# OS
+.DS_Store
+Thumbs.db
+
